@@ -37,12 +37,10 @@ My name is Okoro Osan Richman and i am a student of Zuri as a web developer...
 ## Tech Stack
 
 **Client:** React, Javascript, CSS, HTML
-
-**Server:** Node, Express
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5bH6qC0XK8YO1ReprEadneIM1dUdIpKVhThk86q0&s" width=120>
-<img src="<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5bH6qC0XK8YO1ReprEadneIM1dUdIpKVhThk86q0&s" width=120>" width=120>
 <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width=120>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width=120>
+**Server:** Node, Express
 <img src="https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png" width=120>
 
 ## Installation
