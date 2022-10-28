@@ -1,16 +1,51 @@
-### Hi there 👋
+# README.MD
 
-<!--
-**osanrichy/osanrichy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Osan! 👋
 
-Here are some ideas to get you started:
+## 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Javascript, HTML, CSS...
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/WaweOsan)
+
+## 🚀 About Me
+
+My name is Okoro Osan Richman and i am a student of Zuri as a web developer...
+
+## Other Common Github Profile Sections
+
+👩‍💻 I'm currently working on improving my coding skills...
+
+🧠 I'm currently learning software development at Zuri...
+
+👯‍♀️ I'm looking to collaborate on software engineering project...
+
+🤔 I'm looking for help with with mastering my skills as a software developer...
+
+💬 Ask me about anything?...
+
+📫 How to reach me: Gmail...
+
+😄 Pronouns...
+
+⚡️ Fun fact: i love playing games to relax...
+
+## Tech Stack
+
+**Client:** React, Javascript, CSS, HTML
+
+**Server:** Node, Express
+<img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width=120>
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
